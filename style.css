@@ -1,6 +1,8 @@
 
 body {
     background-color: #369640;
+    background-image: url(img/2_fundo.jpg);
+    background-size: 500px;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
